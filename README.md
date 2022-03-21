@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on pet projects
 - 🌱 I’m always learning and re-learning Java ❤️ and its ecosystem 🍃
-- 💬 Ask me about anything on tech topics or philosphy 😛
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ion-pascari-86a3a6127/)
 - 🤩 I'm passionate about hiking, table tennis and philosophy 
 - ⚡ Fun fact: I like the white foam backing of the gummies 😋
